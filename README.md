@@ -1,3 +1,4 @@
+![Awesome](https://awesome.re/badge.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/varun-singhh/Todo-I/master/LICENSE)
 # Getting Started with Todo App
 
 This is simple React App for Beginners to understand the Concept of React Context API, this project is being build without local storage, we just used reducers,and Context to display the Task to be done
