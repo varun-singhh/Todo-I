@@ -25,3 +25,5 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ✅Feel Free to add more Features to this todo, Just Raise an Issue and then create a pull request to get your pull request merged. if you like this concept of Todo With help of Context API don't forget to ⭐(star) this repository.
+
+🚩In case of any Issues, Create new React App by `npx create-react-app appname` and install all dependencies, and then relace src file of this repo with newly created app.
